@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This is about finding new purpose in old stuff or simply looking at something in a new way to expand on its inherent possibilities.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+This is dedicated to those that think the light is more important than the lighbulb. This is dedicated to those that find new purpose in things beyond what's inferred at the first glance. This is dedicated to those that aren't contained by boundaries and that understand any limitations are merely the made-up perception of fuzzy borders.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Revise. Rebuild. Repurpose.
